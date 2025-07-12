@@ -60,6 +60,23 @@ pip install -r requirements.txt
 4. Install Playwright Browsers:
 playwright install
 
+## Running Tests
+1. Run all Tests- pytest
+2. Run specific test (e.g. Happy path)- pytest test_end_end_framework.py
+3. Run with html report - pytest test_end_end_framework.py --html=report.html
+
+## Videos
+Test runs are recorded -
+1. videos1
+2. videos2
+
+## Tools and Technology
+1. Python
+2. Playwright
+3. Pytest framework
+4. Page Object Model
+5. JSON - data driven testing
+
 
 
 
